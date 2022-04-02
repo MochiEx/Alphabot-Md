@@ -842,7 +842,7 @@ exports.welcome = () =>{
 ╰❒ 𝖯𝖺𝗍𝗎𝗁𝗂 𝗋𝗎𝗅𝖾𝗌 𝗀𝗋𝗎𝗉 𝗒𝖺 𝗄𝖺k ~`
 }
 exports.leave = () =>{
-	return`Yah kok out 😣 Mental aman kan kak >.<
+	return`Selamat tinggal beban keluarga >.<
 Goodbye`
 }
 exports.source = () =>{
@@ -850,6 +850,7 @@ return`*------「 SOURCE CODE 」 ------*
 
 Base : https://github.com/DikaArdnt/Hisoka-Morou
 Recode : https://youtube.com/playlist?list=PLFCglBzFPHG7vSQaa9S3P8yfla_d9w-2-
+Github : https://github.com/MochiEx
 `
 }
 exports.tos = (ownernomer) => {
@@ -1465,13 +1466,14 @@ exports.tqto = () =>{
 ├ Rashid
 ├ ZeeoneOfc
 ├ Penyedia Module
+├ Mochi
 ╰❒ And All Support
 `
 }
 
 exports.primbonmenu = (prefix) =>{
 	return`╭─❒ 「 Primbon 」
-├ ${prefix}nomorhoki 887435047326
+├ ${prefix}nomorhoki 882327020033
 ├ ${prefix}artimimpi [query]
 ├ ${prefix}artinama [query]
 ├ ${prefix}ramaljodoh
